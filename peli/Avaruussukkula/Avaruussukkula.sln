@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avaruussukkula", "Avaruussukkula\Avaruussukkula.csproj", "{FE47E906-A24C-4304-8CDD-627C9C9FC270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuoKentta", "LuoKentta\LuoKentta.csproj", "{EC74DE1B-4E87-43F5-93BF-E0D456A2ADFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE47E906-A24C-4304-8CDD-627C9C9FC270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE47E906-A24C-4304-8CDD-627C9C9FC270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE47E906-A24C-4304-8CDD-627C9C9FC270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE47E906-A24C-4304-8CDD-627C9C9FC270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC74DE1B-4E87-43F5-93BF-E0D456A2ADFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC74DE1B-4E87-43F5-93BF-E0D456A2ADFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC74DE1B-4E87-43F5-93BF-E0D456A2ADFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC74DE1B-4E87-43F5-93BF-E0D456A2ADFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32701007-D252-422C-8361-2857A3FAE770}
+	EndGlobalSection
+EndGlobal
