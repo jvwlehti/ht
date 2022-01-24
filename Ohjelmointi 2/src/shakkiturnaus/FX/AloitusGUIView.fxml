@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="shakkiturnaus.Controller.AloitusGUIController">
+   <top>
+      <VBox prefHeight="300.0" prefWidth="499.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label prefHeight="54.0" prefWidth="290.0" text="SHAKKITURNAUS">
+               <font>
+                  <Font size="36.0" />
+               </font>
+               <VBox.margin>
+                  <Insets left="110.0" top="30.0" />
+               </VBox.margin>
+            </Label>
+            <HBox prefHeight="36.0" prefWidth="276.0">
+               <children>
+                  <Button fx:id="aloita" mnemonicParsing="false" onAction="#handleAloita" prefHeight="25.0" prefWidth="90.0" text="Aloita" />
+                  <Button fx:id="jatka" mnemonicParsing="false" onAction="#handleJatka" prefHeight="25.0" prefWidth="90.0" text="Jatka">
+                     <HBox.margin>
+                        <Insets left="100.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+               <VBox.margin>
+                  <Insets left="100.0" top="100.0" />
+               </VBox.margin>
+            </HBox>
+         </children>
+      </VBox>
+   </top>
+</BorderPane>

@@ -1,0 +1,2 @@
+3|Pekka|Esa|LappiSK|2999|asdasdasd@asdasd.fi|0441234567|1
+4|Kuusi|Veli-Matti|LappiSK|1300|asdasd@asdasd.fi|0501112222|3

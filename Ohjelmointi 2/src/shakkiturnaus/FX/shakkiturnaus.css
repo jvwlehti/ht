@@ -1,0 +1,10 @@
+.virhe {
+	/*@SuppressWarning */
+	-fx-background-color: red;
+	-fx-text-inner-color: red;
+}
+
+.ok {
+	/*@SuppressWarning */
+	-fx-background-color: white;
+}
